@@ -1,5 +1,5 @@
 {
-    "name": "sawirricardo/laravel-midtrans",
+    "name": "mirmuxsin/laravel-midtrans",
     "description": "Laravel Midtrans - Wrapper for Midtrans package",
     "keywords": [
         "sawirricardo",
@@ -7,7 +7,7 @@
         "laravel-midtrans",
         "midtrans"
     ],
-    "homepage": "https://github.com/sawirricardo/laravel-midtrans",
+    "homepage": "https://github.com/mirmuxsin/laravel-midtrans",
     "license": "MIT",
     "type": "library",
     "authors": [
